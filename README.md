@@ -1,5 +1,7 @@
 ### Oiii,  eu sou a Vanessa 👋
 
+👩‍💻 Atualmente estudo Quality Assurance!
+
 <div>
   <a href="https//github.com/vanessaluciaano">
   <img height="180em" src="https://github-readme-status.vercel.app/api?username=vanessaluciaano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
